@@ -4,7 +4,7 @@ import "./App.css";
 import logo from "../public/logo.png";
 
 const API_URL =
-  import.meta.env.VITE_API_URL || "http://localhost:5000";
+  import.meta.env.VITE_API_URL || "https://fourfold-digital-api.onrender.com";
 
 const services = [
   {
